@@ -1,0 +1,11 @@
+# ignore mac configuration files
+.DS_Store
+
+# ignore node_modules
+node_modules
+
+# load api keys and client ids in environment shell
+.envrc
+
+# ignore build file with api keys and client ids
+manifest.json

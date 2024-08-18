@@ -1,7 +1,5 @@
 # BU CalSync: Exporting StudentLink to Google Calendar
 
-By Alex Miller, William DeRocoo, Elaine Leiyoung, and Audi Khalif
-
 [Submission to BostonHacks 2023]()
 
 ## Initial Brainstorming
